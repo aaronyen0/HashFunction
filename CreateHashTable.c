@@ -1,7 +1,7 @@
 #define TABLESIZE 1024
 
 struct LinkedList {
-    int val;
+	int val;
 	struct LinkedList* next;
 };
 
